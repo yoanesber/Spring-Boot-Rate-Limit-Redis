@@ -176,7 +176,7 @@ REDIS_PASSWORD=<password>
 1. Clone the repository
 ```bash
 git clone https://github.com/yoanesber/Spring-Boot-Rate-Limit-Redis.git
-cd Spring-Boot-Redis-Cache
+cd Spring-Boot-Rate-Limit-Redis
 ```
 
 2. Run the application locally
