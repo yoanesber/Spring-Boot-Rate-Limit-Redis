@@ -242,7 +242,7 @@ The API provides the following endpoints to manage department data. Each endpoin
 `GET` http://localhost:8081/api/v1/departments
 
 ### Find Department by ID
-`POST` http://localhost:8081/api/v1/departments/{id}
+`GET` http://localhost:8081/api/v1/departments/{id}
 
 **Successful Response:**
 ```json
