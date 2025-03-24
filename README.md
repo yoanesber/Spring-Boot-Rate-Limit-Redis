@@ -320,5 +320,7 @@ If the number of requests exceeds the allowed limit within a given time frame, t
 ---
 
 ## 📌 Reference
-For the Redis Subscriber implementation, check out [Spring Boot Redis Subscriber with Lettuce](https://github.com/yoanesber/Spring-Boot-Redis-Subscriber-Lettuce).
-For the Redis Publisher implementation, check out [Spring Boot Redis Publisher with Lettuce](https://github.com/yoanesber/Spring-Boot-Redis-Publisher-Lettuce).
+- For the Redis Subscriber implementation, check out [Spring Boot Redis Subscriber with Lettuce](https://github.com/yoanesber/Spring-Boot-Redis-Subscriber-Lettuce).
+- For the Redis Publisher implementation, check out [Spring Boot Redis Publisher with Lettuce](https://github.com/yoanesber/Spring-Boot-Redis-Publisher-Lettuce).
+- Rate Limit with Kong GitHub Repository, check out [Spring Boot Department API with Kong API Gateway & Rate Limiting](https://github.com/yoanesber/Spring-Boot-Rate-Limit-Kong).
+- Rate Limit with Bucket4j GitHub Repository, check out [Rate Limiting with Bucket4j and Hazelcast](https://github.com/yoanesber/Spring-Boot-Rate-Limit-Bucket4j).
